@@ -1,4 +1,8 @@
-<1%@ page language="java" contentType="text/html; charset=UTF-8"
+<<<<<<< HEAD
+%@ page language="java" contentType="text/html; charset=UTF-8"
+=======
+%@ page language="java" contentType="text/html; charset=UTF-8"
+>>>>>>> C4
     pageEncoding="UTF-8"%>
 <%@page import="java.sql.*"%>
 <%
